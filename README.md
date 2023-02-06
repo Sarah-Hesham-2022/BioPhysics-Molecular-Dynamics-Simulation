@@ -294,6 +294,84 @@ Extensions → Modeling → Add Solvation Box
 
 ![image](https://user-images.githubusercontent.com/112272836/216971891-e4565e68-b01a-49bd-a7f8-2941c1207162.png)
 
+![image](https://user-images.githubusercontent.com/112272836/216980407-abb7acb8-639b-45e0-9884-f211aa8a3192.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216980507-e99ac0ef-3302-424f-abb1-fda7555d292e.png)
+
+-In task one we generated a water box around the protein but, 
+
+-What about if we want to make it a sphere instead???
+
+-Let us write a TCL/TK Script to help us through this mission.
+
+![image](https://user-images.githubusercontent.com/112272836/216981116-c8f55d80-8f50-481e-8f61-40fd0e4e7ce5.png)
+
+-Results after uploading TCL Script on 1j4n:
+
+-Script to immerse our protein 1j4n.pdb in a sphere of water just large enough to cover it
+
+-This script will place 1j4n in the smallest possible water sphere
+
+- which completely immerses the protein.
+
+- The output of the tcl script will be the center and radius of the water sphere.
+
+-Determine the center of mass of the molecule and store the coordinates
+
+-Solvate the molecule in a water box with enough padding (15 Angestrom)
+
+-Determine which water molecules need to be deleted and use a for loop to delete them
+
+-First Upload Script to run after setting working directory as usual:
+
+![image](https://user-images.githubusercontent.com/112272836/216981602-8c3279e7-94b6-4c91-8b68-de23051cf99f.png)
+
+-Final Console Output
+
+![image](https://user-images.githubusercontent.com/112272836/216981658-8965d6c7-c52a-4de8-ae64-762e6d4bc8b1.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216981690-e2404f56-7f43-467d-aca2-239f88b53d67.png)
+
+-Final Result 
+
+![image](https://user-images.githubusercontent.com/112272836/216981789-4dfb202a-3777-451e-b389-9860f3ac9b05.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216981859-4ffa7cc8-4efe-4f77-a009-52bc492bad04.png)
+
+-PSF and PDB Uploading :
+
+![image](https://user-images.githubusercontent.com/112272836/216981940-c5472fb9-d119-4691-8cef-cec2c7b082e0.png)
+
+-The question here is what kind of center was calculated???
+
+![image](https://user-images.githubusercontent.com/112272836/216982049-95511e91-564c-44fb-b748-6892240b190c.png)
+
+-Next:
+
+-Solvation Applied
+
+![image](https://user-images.githubusercontent.com/112272836/216982125-ce8ff5ee-fe57-4ff1-8156-0682ec43d638.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216982153-bbfc1e26-3aee-40f4-a6e7-1a17c6678701.png)
+
+-Solvation Number of Atoms 
+
+![image](https://user-images.githubusercontent.com/112272836/216982227-f0526eec-1dd4-4771-a820-b799c7a478cc.png)
+
+-Number of Atoms after deletion of del_atoms
+
+![image](https://user-images.githubusercontent.com/112272836/216982282-aa60cd58-5092-47b2-b3e0-5c425a7ea059.png)
+
+-New Solvated results after deletion
+
+![image](https://user-images.githubusercontent.com/112272836/216982348-289eb121-e2df-4b70-b939-e4898ce16b42.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216982365-9c706054-7a1f-4daa-8060-d6afa192a08d.png)
+
+-Final New generated files:
+
+![image](https://user-images.githubusercontent.com/112272836/216982438-561b7a36-f3b0-4e02-b831-c1d493bc9a32.png)
+
 
 
 
