@@ -334,6 +334,16 @@ http://www.gromada.com/VideoMach.html
 
 -Results of the trajectory and video making are added ,but this time applied on 1ubq.pdb molecule and not 1j4n.pdb, in order to carry them out, you will have to prepare all needed files first by following steps in task 1.
 
+-Here are links to know more about the 1ubq.pdb molecule:
+
+https://www.rcsb.org/structure/1UBQ
+
+https://www.ncbi.nlm.nih.gov/Structure/pdb/1UBQ
+
+https://pdbj.org/mine/summary/1ubq
+
+https://www.ebi.ac.uk/pdbe/entry/pdb/1ubq/index
+
 ![image](https://user-images.githubusercontent.com/112272836/216980407-abb7acb8-639b-45e0-9884-f211aa8a3192.png)
 
 ![image](https://user-images.githubusercontent.com/112272836/216980507-e99ac0ef-3302-424f-abb1-fda7555d292e.png)
