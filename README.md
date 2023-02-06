@@ -31,8 +31,6 @@ https://www.rcsb.org/
 
 ![image](https://user-images.githubusercontent.com/112272836/216963486-a97bdec0-17f1-4856-848c-e61fd834dafc.png)
 
-![image](https://user-images.githubusercontent.com/112272836/216963715-d6f27589-1b50-48c4-897c-03e0d6ef2751.png)
-
 -Now after becoming familiar with using these tools ,let us take a look at the the actual results done here after applying all these steps on the 1j4n.pdb file molecule.
 
 -Here are links, to know more about the molecule:
