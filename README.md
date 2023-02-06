@@ -294,11 +294,50 @@ Extensions → Modeling → Add Solvation Box
 
 ![image](https://user-images.githubusercontent.com/112272836/216971891-e4565e68-b01a-49bd-a7f8-2941c1207162.png)
 
+-Now we can also prepare the protein trajectory files:
+
+1. Download and install VideoMach:
+
+http://www.gromada.com/VideoMach.html
+
+![image](https://user-images.githubusercontent.com/112272836/216983967-0379896d-3516-4fe2-a14c-e198ddb585ad.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984002-5c1f36d7-7eff-4f10-9801-8189e0d7f237.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984052-77f0da07-7ec2-4dac-a570-4e56d208aae2.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984119-5b585d64-4475-48d8-92d7-c0b1d9d818f8.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984153-df7d5400-4669-40c6-a285-4c62b61f5026.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984202-2aaac20e-a835-48bd-bd34-18d9fc13fc74.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984248-0dc13ccf-bb49-489b-972c-d950752a756b.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984298-2faf89c8-1210-448f-bb7c-a40873abc77b.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984371-7cd62173-dcb3-470f-a392-0737c87c4451.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984424-b5f2ea74-c9f4-4cdd-991f-82d36028fda7.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984481-ad3e637b-9277-4f4c-a8ba-57a62dd1e39f.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984546-863fdbf9-d0f0-48f0-a30d-860b6cdd8232.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984579-57785b96-5cae-47f7-87b9-c4f27bfdf2ce.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984619-9a4f0b5b-1ed2-49bd-b87c-484febc1ab45.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984654-5ba1e334-5d06-4d31-b6a0-022cb3a83463.png)
+
+![image](https://user-images.githubusercontent.com/112272836/216984703-8152530e-9005-40a4-9535-b57363db05de.png)
+
+
 ![image](https://user-images.githubusercontent.com/112272836/216980407-abb7acb8-639b-45e0-9884-f211aa8a3192.png)
 
 ![image](https://user-images.githubusercontent.com/112272836/216980507-e99ac0ef-3302-424f-abb1-fda7555d292e.png)
 
--In task one we generated a water box around the protein but, 
+-In task one we generated a water box around the protein but !? 
 
 -What about if we want to make it a sphere instead???
 
