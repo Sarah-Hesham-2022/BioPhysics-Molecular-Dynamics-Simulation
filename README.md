@@ -332,6 +332,7 @@ http://www.gromada.com/VideoMach.html
 
 ![image](https://user-images.githubusercontent.com/112272836/216984703-8152530e-9005-40a4-9535-b57363db05de.png)
 
+-Results of the trajectory and video making are added ,but this time applied on 1ubq.pdb molecule and not 1j4n.pdb, in order to carry them out, you will have to prepare all needed files first by following steps in task 1.
 
 ![image](https://user-images.githubusercontent.com/112272836/216980407-abb7acb8-639b-45e0-9884-f211aa8a3192.png)
 
