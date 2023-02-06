@@ -158,7 +158,9 @@ Extensions → Modeling → Add Solvation Box
 
 •Select suitable parameter files for the loaded molecule.
 
-•If you don’t have any non-protein molecules (such as ions), the default parameter files will be just fine. Parameter files for different types of molecules can be found in the VMD installation folder: “C:\Program Files\University of Illinois\VMD\plugins\noarch\tcl\readcharmmpar1.3”  To avoid any crash during the NAMD run; add all possible parameter files that may be needed for your molecule especially if you don’t have enough information about the atom types that exist in your loaded molecule.
+•If you don’t have any non-protein molecules (such as ions), the default parameter files will be just fine. Parameter files for different types of molecules can be found in the VMD installation folder: "C:\Program Files\University of Illinois\VMD\plugins\noarch\tcl\readcharmmpar1.3" 
+
+-To avoid any crash during the NAMD run; add all possible parameter files that may be needed for your molecule especially if you don’t have enough information about the atom types that exist in your loaded molecule.
 
 •Select the following checkboxes from the timesteps section:  Minimization  Molecular dynamics
 
@@ -174,7 +176,7 @@ Extensions → Modeling → Add Solvation Box
 
 ![image](https://user-images.githubusercontent.com/112272836/216969003-ac795d14-ddfa-4f77-8e21-badad04af0b7.png)
 
-Step 4:
+-Step 4:
 
 •	Run MD Simulation
 
@@ -190,7 +192,7 @@ Step 4:
 
 ![image](https://user-images.githubusercontent.com/112272836/216969207-a5760edc-3bf0-407c-bf7c-db6be7379846.png)
 
-Step 5:
+-Step 5:
 
 •	Loading Trajectory File
 
@@ -214,7 +216,7 @@ Step 5:
 
 ![image](https://user-images.githubusercontent.com/112272836/216969486-f36c179f-87ba-48a7-9363-0c56ea6ff087.png)
 
-Step 6: 
+-Step 6: 
 
 •	RMSD Analysis
 
