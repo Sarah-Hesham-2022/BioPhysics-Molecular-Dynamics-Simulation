@@ -1,0 +1,15 @@
+{11.383999824523926 11.041000366210938 -3.259000062942505} {59.98400115966797 50.66400146484375 63.196998596191406}
+
+
+Do the following calculations to get the dimensions (x,y,z) of the water box:
+Xcenter = Xmin + Xmax / 2      Xsize = Xmax – Xmin
+Ycenter = Ymin + Ymax / 2      Ysize = Ymax – Ymin
+Zcenter = Zmin + Zmax / 2      Zsize = Zmax – Zmin
+
+xCenter = 35.6839
+YCenter = 30.8525
+ZCenter = 29.96895
+
+XSize = 48.6001
+YSize = 39.6230
+ZSize = 66.4559
