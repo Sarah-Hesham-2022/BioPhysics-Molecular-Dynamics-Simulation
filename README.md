@@ -422,10 +422,14 @@ https://www.ebi.ac.uk/pdbe/entry/pdb/1ubq/index
 
 ![image](https://user-images.githubusercontent.com/112272836/216982438-561b7a36-f3b0-4e02-b831-c1d493bc9a32.png)
 
+![image](https://user-images.githubusercontent.com/112272836/216987568-aaa25d87-6d43-4c96-b551-ab222eff464a.png)
 
+-When carrying out these steps, you can face many technical issues related to the interaction between VMD, NAMD and your operating system.
 
+-The 2 most commonly repeated ones here are :
 
+1) You have to add the NAMD execution file path to your environment path BEFORE applying the steps of getting configuration files preparation, to be safe just do it at as a first step in applying this project.
 
+2) Sometimes VMD doesn't work when you set the current directory (cd) in its cmd with a path having spaces in it.
 
-
-
+-So to avoid any consequences of problem number 2 , don't use for example : "File Path/Folder" , instead use a path : "FilePath/Folder" .
